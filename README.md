@@ -1,4 +1,7 @@
 # Bash-Script
+
+####This script will execute when ./Himom.sh is initiated or bash Himom.sh
+
 echo "Hi Mom"
 
 sleep 3
